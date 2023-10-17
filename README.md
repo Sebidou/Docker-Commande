@@ -1,4 +1,15 @@
 # docker-commande
+Supprimer container arrêté et images non utilisées: docker system prune -a
+
+Ram utilisé: free -m
+
+Supprime container volume et réseau non associés.: docker system prune
+
+Redémarrer container docker: docker restart nomducontainer
+
+Vérifier container tout docker démarré: docker ps 
+
+Vérifier un container en particulier démarré: docker logs -f [nom_container]
 
 Supprimer container docker: rm -f nomducontainer
 
