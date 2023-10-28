@@ -1,5 +1,9 @@
 # docker-commande
 
+Déploiement du Container:
+
+```docker-compose up -d```
+
 MAJ du Container:
 
 ```docker-compose pull```
