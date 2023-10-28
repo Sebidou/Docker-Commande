@@ -1,5 +1,9 @@
 # docker-commande
 
+MAJ du Container:
+
+```docker-compose pull```
+
 Supprimer container arrêté et images non utilisées: 
 
 ```docker system prune -a```
